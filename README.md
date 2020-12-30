@@ -43,3 +43,4 @@ This script checks if a person is wearing face mask or not
 
 13. Person Counter:
 This script counts the number of person present in the frame.
+![Image of the idea](https://github.com/Sharmil001/New-Repository/blob/master/Accessing.png)
